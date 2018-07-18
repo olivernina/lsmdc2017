@@ -1,2 +1,2 @@
 # lsmdc2017
-This is the code used for our submission to the LSMDC 2017 competition as part of ICCV 2017. We will also release our Arxiv paper soon as well. Please cite our paper and code if you use our method. Thanks!
+Sorry everyone the code release has taken a long time due to unexpected life events. We will relase it soon. You can always send me an email for specific questions. Thanks olivernina at gmail
